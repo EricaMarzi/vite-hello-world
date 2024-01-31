@@ -9,5 +9,7 @@ export default {
 </template>
 
 <style>
-/*css*/
+h1 {
+  text-align: center;
+}
 </style>
